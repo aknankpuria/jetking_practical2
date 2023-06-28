@@ -1,0 +1,5 @@
+ create html
+2. js and css file 
+3. use id to targt element .
+4.use id to target whose style attribute you wanna change.
+5.for exampple see the code.

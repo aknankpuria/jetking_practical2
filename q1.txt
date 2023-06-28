@@ -1,0 +1,5 @@
+1. create html
+2. js and css file 
+3. use id to targt element .
+4. use function or anything else to change the innertext of html ids. 
+5. for exampple code is attached here. 

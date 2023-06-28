@@ -1,0 +1,19 @@
+h1{
+    background-color: antiquewhite;
+    color: blueviolet;
+    border: 2px solid black;
+}
+button{
+    background-color: antiquewhite;
+    color: blueviolet;
+    border: 2px solid black;
+    height: 40px;
+    width:40%;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    background-color:skyblue;
+    color: blueviolet;
+    border: 2px solid black;
+}

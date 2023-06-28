@@ -1,0 +1,5 @@
+1.create html
+2. js and css file 
+3. use id to targt element .
+4.use id to target and use button to impliment then set the display property accordingly to show and hide the targeted div or any element.
+5.for exampple see the code.
