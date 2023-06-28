@@ -1,4 +1,4 @@
- create html
+ 1.create html
 2. js and css file 
 3. use id to targt element .
 4.use id to target whose style attribute you wanna change.
